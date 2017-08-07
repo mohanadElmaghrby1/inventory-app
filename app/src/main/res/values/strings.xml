@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <!--message for indicating that there is no data to display in the listView -->
+    <string name="no_data_to_display">No Data To Display</string>
+
+    <!--message for no data-->
+    <string name="category_overview">Category</string>
+
+    <!-- hint for product name-->
+    <string name="hint_product_name">Name</string>
+
+    <!--hint for product price-->
+    <string name="hint_product_price">Price</string>
+
+    <!--hint for product price-->
+    <string name="hint_product_quantity">Quantity</string>
+
+    <string name="add_product_activity_title">Add a Product</string>
+
+    <string name="editor_activity_insert_failed">Product Failed To Save</string>
+
+    <string name="editor_activity_insert_successful">Product Successfully Saved</string>
+
+    <string name="action_select_picture">Select Image</string>
+
+    <string name="btn_select_image_text">Select image</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_Product_successful">Product saved</string>
+
+    <string name="editor_insert_Product_failed">Error with saving Product</string>
+
+    <string name="editor_update_Product_successful">Product updated</string>
+
+    <string name="editor_update_Product_failed">Error with updating Product</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_Product_successful">Product deleted</string>
+
+    <string name="editor_delete_Product_failed">Error with deleting Product</string>
+
+    <string name="delete_dialog_msg">Delete this Product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_activity_title_add_Product">Add A Product</string>
+
+    <string name="editor_activity_title_edit_Product">Edit Product</string>
+
+    <string name="hint_supplier_phone">Phone</string>
+
+    <string name="empty_view_title">No Products Found</string>
+
+    <string name="empty_view_subtitle_text">No Products Found</string>
+
+</resources>
